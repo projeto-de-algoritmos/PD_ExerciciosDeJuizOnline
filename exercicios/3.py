@@ -33,14 +33,14 @@ sol = Solution()
 startTime1 = [1, 2, 3, 3]
 endTime1 = [3, 4, 5, 6]
 profit1 = [50, 10, 40, 70]
-print(sol.jobScheduling(startTime1, endTime1, profit1))  # Saída: 120
+print(sol.jobScheduling(startTime1, endTime1, profit1))  
 
 startTime2 = [1, 2, 3, 4, 6]
 endTime2 = [3, 5, 10, 6, 9]
 profit2 = [20, 20, 100, 70, 60]
-print(sol.jobScheduling(startTime2, endTime2, profit2))  # Saída: 150
+print(sol.jobScheduling(startTime2, endTime2, profit2)) 
 
 startTime3 = [1, 1, 1]
 endTime3 = [2, 3, 4]
 profit3 = [5, 6, 4]
-print(sol.jobScheduling(startTime3, endTime3, profit3))  # Saída: 6
+print(sol.jobScheduling(startTime3, endTime3, profit3))  
