@@ -5,25 +5,36 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0026046  |  Pedro de Oliveira Campos Barbosa |
+| 20/2045268  |  Raquel Temóteo Eucaria Pereira da Costa |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Exercícios Leet Code
+|ID| Título           | Descrição | Resposável | Nível |
+|--|-----------------------|-------|-----------|-------|
+|1 |[10. Regular Expression Matching](./exercicios/1.py)  | texto | Pedro     |Difícil|
+|2 |[32. Longest Valid Parentheses](./exercicios/2.py)  | texto | Pedro     |Difícil|
+|3 |[](./exercicios/3.py)  | texto | Raquel    |Difícil|
+|4 |[](./exercicios/4.py)  | texto | Raquel    |Difícil|
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 1 - Regular Expression Matching
+![1.png](./src/1.png) 
+
+### 2 - Longest Valid Parentheses
+![2.png](./src/2.png) 
+
+### 3 - 
+![3.png](./src/3.png) 
+
+### 4 - 
+![4.png](./src/4.png) 
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Apresentação
+Link da apresentação: [Clique aqui](./src/video.mp4).
 
 
 
